@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <RootNamespace>Mindmagma.Curses</RootNamespace>
     <Description>Portable cross-platform .NET Standard wrapper for the Unix ncurses library</Description>
     <Authors>Jon McGuire</Authors>
